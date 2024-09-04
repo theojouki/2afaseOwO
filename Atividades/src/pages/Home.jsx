@@ -59,6 +59,7 @@ function Home() {
             alert('O número não é positivo e par')
         }
     }
+    // depois eu tenho que tirar
     function Garcom(){
         let salario = Number(prompt('Digite o valor do salário:'))
         let emprestimo = Number(prompt('Digite o valor do empréstimo:'))
